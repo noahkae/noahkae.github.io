@@ -55,7 +55,7 @@ menu:
   - title:             Resume
     url:               /resume/
   - title:             Posts
-    url:               /blog/
+    url:               /posts/
   - title:             Contact
     url:               /contact/
 
