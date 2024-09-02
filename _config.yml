@@ -56,6 +56,8 @@ menu:
     url:               /resume/
   - title:             Posts
     url:               /posts/
+  - title:             About
+    url:               /
   - title:             Contact
     url:               /contact/
 
@@ -83,12 +85,12 @@ paginate_path:         /blog/:num/
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(63,0,113)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(63,0,113)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -121,13 +123,6 @@ defaults:
   - scope:
       path:            assets/
     values:
-      sitemap:         false
-
-  # Don't include licenses in sitemap (feel free to delete)
-  - scope:
-      path:            licenses/
-    values:
-      layout:          plain
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
@@ -182,10 +177,10 @@ kramdown:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random, comments]
+  post_addons:         [newsletter, related, random, comments]
 
   # Configure the order of complementary content on project pages
-  project_addons:      [about, newsletter, other, comments]
+  project_addons:      [newsletter, other, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
   no_mark_external:    false

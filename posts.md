@@ -2,7 +2,7 @@
 layout: grid
 title: Posts
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
+  This is where I post random things, however it will mostly be used as a development blog for anything related to 
+  UCalgary racing.
 grouped: true
 ---
