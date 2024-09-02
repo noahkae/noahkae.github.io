@@ -38,12 +38,12 @@ A drawing of the house's front - please excuse the messiness.
 
 With the design finalized, I embarked on the creation of the house in Autodesk Revit 2021. This included use of the software for full furniture placement, material selection, detailed exterior views, and drawings. The house includes an innovative detached master bedroom, as the requirements stated that guests would be staying in the home frequently.
 
-![House drawing](..\assets\img\projects\l1_fp_bw.jpg)
+![House drawing](\assets\img\projects\l1_fp_bw.jpg)
 
 A Revit drawing of the furnished first floor layout.
 {:.figcaption}
 
-![House rendering](..\assets\img\projects\Close-Iso-Render.jpg)
+![House rendering](\assets\img\projects\Close-Iso-Render.jpg)
 
 A rendering of the final vacation home.
 {:.figcaption}
