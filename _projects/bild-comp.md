@@ -31,7 +31,7 @@ Design Competition. The competition entailed the design of a vacation home with 
 
 This house was to be placed on a tropical private island, and should be near the beach. With the requirements for the competition now understood, I began the design process. This started with some rough sketches and a decision matrix, before the final design drawings drafted.
 
-![House front view.](..\assets\img\projects\front_view.jpg)
+![House front view.](\assets\img\projects\front_view.jpg)
 
 A drawing of the house's front - please excuse the messiness.
 {:.figcaption}
