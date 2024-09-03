@@ -3,6 +3,6 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  Some of my favorite projects.
+  An assortment of my most significant projects, sorted by year
 no_groups: true
 ---

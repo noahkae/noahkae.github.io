@@ -10,7 +10,7 @@ image:
     960w:  /assets/img/projects/bre-group-site@0,5x.jpg
     480w:  /assets/img/projects/bre-group-site@0,25x.jpg
 links:
-  - title: Link
+  - title: BRE-Group Site
     url: https://bre-group.ca/
 sitemap: false
 accent_color: '#ffffff'
