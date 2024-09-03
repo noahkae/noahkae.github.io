@@ -1,8 +1,8 @@
 ---
 layout: project
-title: 'Rotary Engine Generator'
-caption: Designed an innovative rotary engine generator
-date: '30-05-2024'
+title: 'Self-Watering Garden'
+caption: Led a group to design an automated garden
+date: '30-03-2023'
 image: 
   path: /assets/img/projects/bre-group-site.jpg
   srcset: 

@@ -1,8 +1,8 @@
 ---
 layout: project
-title: 'BRE-Group Website'
-caption: Revamped the company website.
-date: '30-07-2023'
+title: 'Wankel Rotary Engine'
+caption: Designed a large Wankel engine
+date: '30-11-2020'
 image: 
   path: /assets/img/projects/bre-group-site.jpg
   srcset: 
