@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'The UCR-01'
-caption: Participated in developing and competing the UCR-01.
+caption: Participated in developing and competing the UCR-01
 date: '20-06-2024'
 image: 
   path: /assets/img/projects/UCR-01.jpg
@@ -34,5 +34,5 @@ The finite element analysis confirming adequate box strength
 Through my consistency and participation within the team, I was able to attend the 2024 Formula SAE competition at the Michigan International Speedway. Although the competition did not exactly go to plan for us, I was able to get more hands-on engineering experience and further educate myself on what constitutes high-quality mechanical engineering design.
 
 ![Me pushing UCR-01](\assets\img\projects\pushing_ucr_01.jpg)
-Me (left) and Max (right) pushing the car back into our pit
+Me (left) and Max (right) pushing the UCR-01 back into our pit
 {:.figcaption}

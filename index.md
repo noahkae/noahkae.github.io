@@ -1,7 +1,10 @@
 ---
 layout: page
 title: About
-sitemap: false
+no_link_title: false 
+no_excerpt: false 
+hide_image: false
+cover: true
 ---
 
 # Hey there,
@@ -12,4 +15,3 @@ to traditional mechanical fields, I am currently pursuing a minor in digital eng
 learning and python will prove incredibly useful in analysis and design of innovative systems.
 
 Thank you for taking the time to check out my website! 
-

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'BILDCR Student Design Competition'
-caption: Placed 3<sup>rd</sup> overall.
+caption: Placed 3<sup>rd</sup> in Calgary
 date: '15-05-2021'
 description: >
   In the 2020/2021 BILD Calgary Region Student Design Competition,

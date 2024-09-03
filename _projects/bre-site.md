@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'BRE-Group Website'
-caption: Revamped the company website.
+caption: Revamped the company website
 date: '30-07-2023'
 image: 
   path: /assets/img/projects/bre-group-site.jpg
