@@ -1,8 +1,8 @@
 ---
 layout: project
-title: 'Rotary Engine Generator'
-caption: Designed an innovative rotary engine generator
-date: '30-05-2024'
+title: 'Digital Blackjack Table'
+caption: Recycled wood and electronics to create a digital games table
+date: '15-02-2022'
 image: 
   path: /assets/img/projects/bre-group-site.jpg
   srcset: 
