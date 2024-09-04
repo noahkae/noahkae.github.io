@@ -1,8 +1,8 @@
 ---
 layout: project
-title: 'Wankel Rotary Engine'
-caption: Designed a large Wankel engine
-date: '30-11-2020'
+title: 'Rotary Engine Generator'
+caption: Designed an innovative rotary engine generator
+date: '30-05-2024'
 image: 
   path: /assets/img/projects/bre-group-site.jpg
   srcset: 

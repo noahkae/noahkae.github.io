@@ -10,6 +10,9 @@ image:
   path: /assets/img/projects/Front-Render.jpg
 sitemap: false
 accent_color: '#2d83aa'
+links:
+  - title: BILDCR Site
+    url: https://bildcr.com/
 accent_image:
   background: '#2d83aa'
 theme_color: '#0096FF'
