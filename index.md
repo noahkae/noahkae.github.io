@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Hey There!
+title: Welcome to my site!
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
