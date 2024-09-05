@@ -1,10 +1,15 @@
 ---
-layout: page
-title: About
+layout: welcome
+title: Hey There!
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
 cover: true
+selected_projects:
+  - _projects/ml-tool.md
+  - _projects/bild-comp.md
+  - _projects/UCR-01.md
+projects_page: projects.md
 ---
 
 # Hey there,
@@ -15,3 +20,7 @@ to traditional mechanical fields, I am currently pursuing a minor in digital eng
 learning and python will prove incredibly useful in analysis and design of innovative systems.
 
 Thank you for taking the time to check out my website! 
+# Featured Projects
+Out of all the projects I've completed, these are my favourite:
+
+<!--projects-->

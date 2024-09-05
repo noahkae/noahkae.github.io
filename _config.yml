@@ -55,7 +55,7 @@ menu:
   - title:             Resume
     url:               /resume/
   - title:             About
-    url:               /
+    url:               /about/
   - title:             Contact
     url:               /contact/
 
@@ -83,7 +83,7 @@ paginate_path:         /blog/:num/
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(128,128,128)
+accent_color:          rgb(85,85,85)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.

@@ -2,7 +2,7 @@
 layout: project
 title: 'The UCR-01'
 caption: Participated in developing and competing the UCR-01
-date: '20-06-2024'
+date: '20-01-2024'
 image: 
   path: /assets/img/projects/UCR-01.jpg
 links:
@@ -14,6 +14,7 @@ accent_image:
   background: '#b40001'
 theme_color: '#000000'
 sitemap: false
+featured: true
 ---
 In following my passion for cars and engineering, in 2023 I joined [UCalgary Racing](https://bre-group.ca/), The University of Calgary's Formula SAE team. Joining the team allowed me to gain significant manufacturing knowledge, as well as understand mechanical and automotive design philosophy better. Being placed on the powertrain subteam, I was quickly able to make meaningful contributions to the car's design. My first task was to create a mount for the (extremely large) motor controller, which took much larger than anticipated due to the ever-changing chassis and electrical designs of the vehicle. The final mount was extremely lightweight and manufacturable, with a FOS of over 4.0 on a 1g bump.
 
