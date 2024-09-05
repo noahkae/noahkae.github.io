@@ -16,7 +16,7 @@ Me in Luxor, Egypt in 2022
 Every summer, I set up a large edible garden on my balcony. The 2024 season was exceptionally successful, with large yields of potatoes, tomatoes, strawberries, radishes, lettuce, raspberries, onions, and ground cherries. Although my passion for gardening may seem comically disconnected from my other passions and hobbies, I am looking to implement an irrigation and monitoring system next summer which will meld my passions. I also love cooking, and growing my own food allows me to utilize the freshest ingredients possible.
 
 ![Mount view](\assets\img\about\potatoes.jpg)
-Some gourmandine potatoes I harvested in 2024
+Some Gourmandine potatoes I harvested in 2024
 {:.figcaption}
 
 Feel free to reach out to me through my [contact page](https://noahkae.com/contact), and thank you once again for checking out my website!

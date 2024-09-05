@@ -10,11 +10,11 @@ basics:
   website: "https://www.noahkae.com"
   summary: >
     Born in Calgary, I have always been fascinated by mechanical systems.
-    I am in my third year of working towards getting a BSc in Mechanical Engineering with a minor in Digital Engineering.
-    As an active drivetrain member of UCalgary Racing, I am able to get hands-on mechanical, automotive, 
+    I am in my third year of pursuing a BSc in Mechanical Engineering with a minor in Digital Engineering.
+    As an active drivetrain member of UCalgary Racing, I am able to gain hands-on mechanical, automotive, 
     and manufacturing engineering experience.
     My work has primarily related to data exploration and machine learning,
-    and I look forward to bringing machine learning to mechanical engineering applications.
+    and I look forward to applying machine learning to mechanical engineering applications.
     When I'm not thinking about engineering,
     I'm probably thinking about cars or sports instead.
   location:
@@ -68,7 +68,7 @@ volunteer:
     highlights:
       - "Placed and designed the mounts for the motor controller and high-voltage disconnector"
       - "Ran critical safety FEA on drivetrain components"
-      - "Developed exceptional solidworks and PDM skills"
+      - "Developed exceptional Solidworks and PDM skills"
       - "Attended FSAE EV Michigan 2024 to compete the UCR-01"
 education:
   - institution: "The University of Calgary"

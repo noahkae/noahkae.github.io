@@ -12,11 +12,11 @@ accent_image:
   overlay: false
 theme_color: '#000000'
 ---
-In the second semester of my first year at The University of Calgary, I led a group of 4 engineers to create a scratch-built handheld videogame console. We were given access to 3D printers and an Arduino Uno starter kit, with very loose project guidelines as follows:
+In the second semester of my first year at The University of Calgary, I led a group of 4 engineers to create a scratch-built handheld video game console. We were given access to 3D printers and an Arduino Uno starter kit, with very loose project guidelines as follows:
 
 * The console must be ergonomic and lightweight
 * It must have a reset mechanism
-* It must be engaging and enertaining
+* It must be engaging and entertaining
 * It must have a unique quality not found in many other consoles
 
 United by our love for racing and by extension Formula 1, our group proceeded with an ambitious goal; to develop a steering wheel-shaped standalone console housing a gyroscopically controlled racing game. Although much of the console's development went flawlessly such as case design and electronic design, our group encountered extreme difficulty in gaining the desired functionality from our gyroscope. Problems such as gyroscope location, poor accuracy, and inconsistent readings plagued our console, forcing us to reconsider our approach. We spread tasks amongst us evenly and to our strengths, and were able to overcome these problems. Our final game was an F1 reaction time tester with 2-axis gyroscopic detection.
