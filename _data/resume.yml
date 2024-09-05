@@ -2,102 +2,145 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
+  name: "Noah Elsayed"
+  label: "Mechanical & Digital Engineering Student"
+  picture: "/assets/img/noah_face.png"
   email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  phone: ""
+  website: "https://www.noahkae.com"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    Born in Calgary, I have always been fascinated by mechanical systems.
+    I am in my third year of working towards getting a BSc in Mechanical Engineering with a minor in Digitial Engineering.
+    As an active drivetrain member of UCalgary Racing, I am able to get hands-on mechanical, automotive, 
+    and manufacturing engineering experience.
+    My work has primarily related to data exploration and machine learning,
+    and I look forward to bringing machine learning to mechanical engineering applications.
+    When I'm not thinking about engineering,
+    I'm probably thinking about cars or sports instead.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: ""
+    postalCode: ""
+    city: "Calgary"
+    countryCode: "CA"
+    region: "Alberta"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+    - network: "GitHub"
+      username: "noahkae"
+      url: "https://github.com/noahkae"
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Noah Elsayed"
+      url: "https://www.linkedin.com/in/noahka-elsayed/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
+  - company: "Whitecap Resources Ltd."
+    position: "Production Engineering Summer Student"
+    website: "https://www.wcap.ca/"
+    startDate: "2024-05-01"
+    endDate: "2024-08-16"
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      As part of Whitecap's 2024 summer student program, I worked with the Weyburn, Saskatchewan production team.
+      I had the privilege of getting hands-on experience in the field, and was able to improve my communication,
+      teamwork, and machine learning skills.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - "Consolidated large quantities of scattered MMV data to create a Tableau dashboard"
+      - "Trained a LSTM Neural Network and used in a GUI tool to predict well flow rates while drilling"
+      - "Delivered an extensive \"Introduction to Machine Learning\" course to the Weyburn engineers"
+      - "Represented \"Whitecap Resources Ltd.\" at the 2024 Saskatchewan Oil & Gas Show"
+  - company: "BRE Group"
+    position: "Engineering Summer Student"
+    website: "https://bre-group.ca/"
+    startDate: "2024-05-01"
+    endDate: "2024-09-01"
+    summary: >
+      Working as an intern at BRE Group in 2023 under Richard Baker, I was able to get a basic understanding of reservoir
+      engineering and improve my understanding of the oil and gas industry.
+    highlights:
+      - "Spearheaded a complete website overhaul, modernizing online presence"
+      - "Developed critical components of intensive CCS and CCUS courses, devising innovative problems"
+      - "Created and digitized intricate figures, enhancing data visualization and communication efficacy"
+      - "Co-authored an article on reservoir simulation model complexity"
 volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+  - organization: "UCalgary Racing"
+    position: "Drivetrain Subteam Member"
+    website: "https://ucalgaryracing.ca/"
+    startDate: "2023-10-01"
+    endDate: ""
+    summary: "Helped develop and build the University of Calgary's Formula SAE car, the UCR-01."
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      - "Placed and designed the mounts for the motor controller and high-voltage disconnector"
+      - "Ran critical safety FEA on drivetrain components"
+      - "Developed exceptional solidworks and PDM skills"
+      - "Attended FSAE EV Michagan 2024 to compete the UCR-01"
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
+  - institution: "The University of Calgary"
+    area: "Mechanical Engineering"
+    studyType: "Bachelor of Science"
+    startDate: "2022-09-01"
+    endDate: ""
     courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+      - "ENME 341 - Fluid Mechanics"
+      - "ENGG 311 - Thermodynamics"
+      - "ENDG 319 - Statistics and Machine Learning"
+      - "ENDG 311 - Advanced Software Design and Development"
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: "Simulation Model Complexity and the Realities of Data Implementation"
+    releaseDate: "2013-08-14"
+    website: "https://www.linkedin.com/pulse/addressing-simulation-model-complexity-realities-data-richard-baker/?trackingId=RKucC4YsQb66BEwpnuViBA%3D%3D"
+    summary: "Simulation models are often constructed when evaluating Carbon Capture and Storage (CCS) projects. Both plume migration and injectivity are sensitive to permeability heterogeneity and faults/fractures. Initially, these models depend upon geologic concepts and a limited number of wells and are therefore lacking the required data complexity needed to populate a simulation model. "
 skills:
-  - name: "Web Development"
+  - name: "Computer-Aided Design"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
+      - "Solidworks"
+      - "Inventor"
+      - "Fusion"
+      - "FEA"
+  - name: "Machine Learning"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Tensorflow"
+      - "Keras"
+      - "Neural Networks"
+  - name: "Python"
+    level: "Master"
+    keywords:
+      - "Pandas"
+      - "Object-Oriented"
+      - "Tkinter"
+  - name: "Manufacturing"
+    level: "2/3"
+    keywords:
+      - "CAM"
+      - "3D Printing"
 languages:
   - language: "English"
     fluency: "Native speaker"
+  - language: "Arabic"
+    fluency: "Full professional proficiency"
 interests:
-  - name: "Wildlife"
+  - name: "Cars"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "Formula 1"
+      - "WRC"
+      - "Vehicle dynamics"
+  - name: "Sports"
+    keywords:
+      - "Soccer"
+      - "Boxing"
+      - "MMA"
+  - name: "Technology"
+    keywords:
+      - "FOSS"
+      - "Self-hosting"
+      - "Linux"
+  - name: "Other"
+    keywords:
+      - "Gardening"
+      - "Watches"
+      - "Investing"
+  -
 references:
-  - name: "Erlich Bachman"
+  - name: "Richard Baker"
     reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      I have no doubt in my mind that Noah Elsayed is destined for success in any field he
+      chooses to pursue, whether it be engineering, business, research, or beyond. I am confident that he will
+      bring an exceptional level of dedication, intelligence, and pragmatism to any endeavor he undertakes.
