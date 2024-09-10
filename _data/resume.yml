@@ -83,7 +83,7 @@ education:
       - "ENDG 311 - Advanced Software Design and Development"
 publications:
   - name: "Simulation Model Complexity and the Realities of Data Implementation"
-    releaseDate: "2013-08-14"
+    releaseDate: "2023-08-14"
     website: "https://www.linkedin.com/pulse/addressing-simulation-model-complexity-realities-data-richard-baker/?trackingId=RKucC4YsQb66BEwpnuViBA%3D%3D"
     summary: "Simulation models are often constructed when evaluating Carbon Capture and Storage (CCS) projects. Both plume migration and injectivity are sensitive to permeability heterogeneity and faults/fractures. Initially, these models depend upon geologic concepts and a limited number of wells and are therefore lacking the required data complexity needed to populate a simulation model. "
 skills:
