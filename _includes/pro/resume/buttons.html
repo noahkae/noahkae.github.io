@@ -5,6 +5,15 @@
       {{ site.data.strings.print | default: "Print" }}
     </button>
   {% endif %}
+  {% if page.buttons.json %}
+    {% assign json = page.buttons.json %}
+    {% if json %}
+    <a href="{% include smart-url url=json %}" class="btn btn-sm btn-primary mt1" download>
+      <small class="icon-file-pdf"></small>
+      {{ site.data.strings.resume.download_json | default: "JSON" }}
+    </a>
+    {% endif %}
+  {% endif %}
   {% if page.buttons.pdf %}
     {% assign pdf = page.buttons.pdf %}
     {% if pdf %}
