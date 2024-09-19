@@ -37,13 +37,13 @@ work:
     startDate: "2024-05-01"
     endDate: "2024-08-16"
     summary: >
-      As part of Whitecap's 2024 summer student program, I worked with the Weyburn, Saskatchewan production team.
+      As part of Whitecap's 2024 summer student program, I worked with the Weyburn production team.
       I had the privilege of getting hands-on experience in the field, and was able to improve my communication,
       teamwork, and machine learning skills.
     highlights:
       - "Consolidated large quantities of scattered MMV data to create a Tableau dashboard"
       - "Trained a LSTM Neural Network and used in a GUI tool to predict well flow rates while drilling"
-      - "Delivered an extensive \"Introduction to Machine Learning\" course to the Weyburn engineers"
+      - "Delivered an extensive \"Introduction to Machine Learning\" course to coworkers"
       - "Represented \"Whitecap Resources Ltd.\" at the 2024 Saskatchewan Oil & Gas Show"
   - company: "BRE Group"
     position: "Engineering Summer Student"
@@ -85,7 +85,7 @@ publications:
   - name: "Simulation Model Complexity and the Realities of Data Implementation"
     releaseDate: "2023-08-14"
     website: "https://www.linkedin.com/pulse/addressing-simulation-model-complexity-realities-data-richard-baker/?trackingId=RKucC4YsQb66BEwpnuViBA%3D%3D"
-    summary: "Simulation models are often constructed when evaluating Carbon Capture and Storage (CCS) projects. Both plume migration and injectivity are sensitive to permeability heterogeneity and faults/fractures. Initially, these models depend upon geologic concepts and a limited number of wells and are therefore lacking the required data complexity needed to populate a simulation model. "
+    summary: "Simulation models are often constructed when evaluating Carbon Capture and Storage (CCS) projects. Initially, these models depend upon geologic concepts and a limited number of wells and are therefore lacking the required data complexity needed to populate a simulation model. "
 skills:
   - name: "Computer-Aided Design"
     level: "Master"
