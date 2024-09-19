@@ -43,8 +43,8 @@ work:
     highlights:
       - "Consolidated large quantities of scattered MMV data to create a Tableau dashboard"
       - "Trained a LSTM Neural Network and used in a GUI tool to predict well flow rates while drilling"
-      - "Delivered an extensive \"Introduction to Machine Learning\" course to coworkers"
-      - "Represented \"Whitecap Resources Ltd.\" at the 2024 Saskatchewan Oil & Gas Show"
+      - "Delivered an extensive Introduction to Machine Learning course to coworkers"
+      - "Represented Whitecap Resources Ltd. at the 2024 Saskatchewan Oil & Gas Show"
   - company: "BRE Group"
     position: "Engineering Summer Student"
     website: "https://bre-group.ca/"
