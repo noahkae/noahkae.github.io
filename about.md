@@ -19,5 +19,5 @@ Every summer, I set up a large edible garden on my balcony. The 2024 season was 
 Some Gourmandine potatoes I harvested in 2024
 {:.figcaption}
 
-Feel free to reach out to me through my [contact page](https://noahkae.com/contact), and thank you once again for checking out my website!
+Feel free to reach out to me through my [contact page](https://noahkae.com/contact) or [shoot me an email](mailto:contact@noahkae.com), and thank you once again for checking out my website!
 
