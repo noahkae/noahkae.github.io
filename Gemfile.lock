@@ -279,6 +279,7 @@ DEPENDENCIES
   jekyll (~> 3.8)
   jekyll-compose
   jekyll-include-cache
+  jekyll-paginate
   tzinfo-data
   wdm
   webrick

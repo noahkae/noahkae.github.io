@@ -52,6 +52,8 @@ menu:
 
   - title:             Projects
     url:               /projects/
+  - title:             Posts
+    url:               /posts/
   - title:             Resume
     url:               /resume/
   - title:             About
@@ -68,7 +70,7 @@ permalink:             /blog/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /blog/:num/
+paginate_path:         /posts/:num/
 
 
 # Theme

@@ -13,6 +13,9 @@ gem "jekyll", "~> 3.8"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
+# blog layout
+gem "jekyll-paginate"
+
 group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-include-cache"
