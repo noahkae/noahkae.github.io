@@ -9,13 +9,13 @@ For as long as I can recall, I have been utterly fascinated by mechanical system
 
 I am of Egyptian and English descent and speak both English and Arabic. Although the bulk of my time is spent on engineering or engineering-adjacent activities, I am passionate about sports such as soccer, mixed martial arts, and boxing. While combat sports have taught me the value of discipline, lifetime participation in organized soccer has taught me the importance of teamwork and collaboration. I am also a tech enthusiast, with an interest in free and open-source software (FOSS). In fact, I used Linux as my primary operating system throughout my first year of engineering - until SolidWorks forced me to switch back to Windows.
 
-![Mount view](\assets\img\about\egypt.jpg)
+![Me in Egypt](\assets\img\about\egypt.jpg)
 Me in Luxor, Egypt in 2022
 {:.figcaption}
 
 Every summer, I set up a large edible garden on my balcony. The 2024 season was exceptionally successful, with large yields of potatoes, tomatoes, strawberries, radishes, lettuce, raspberries, onions, and ground cherries. Although my passion for gardening may seem comically disconnected from my other passions and hobbies, I am looking to implement an irrigation and monitoring system next summer which will meld my passions. I also love cooking, and growing my own food allows me to utilize the freshest ingredients possible.
 
-![Mount view](\assets\img\about\potatoes.jpg)
+![Potato](\assets\img\about\potatoes.jpg)
 Some Gourmandine potatoes I harvested in 2024
 {:.figcaption}
 
