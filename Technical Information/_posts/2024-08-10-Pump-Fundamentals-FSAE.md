@@ -10,7 +10,7 @@ sitemap: false
 
 <!--excerpt-->
 
-This post serves to document the basics of pumps specifically for use in FSAE electric vehicles. Much of the information and the graphics used are from [this great resource by IEM.](https://iem.ca/pdf/resources/Fundamentals%20of%20Pumps.pdf) The information in this post is subject to change as development of the [UCalgary Racing](https://ucalgaryracing.ca/) UCR-02 commences, and as seen relevant.
+This post serves to document the basics of pumps specifically for use in FSAE electric vehicles. Much of the information and the graphics used are from [this great resource by IEM.](https://iem.ca/pdf/resources/Fundamentals%20of%20Pumps.pdf) The information in this post is subject to change as development of the [UCalgary Racing](https://ucalgaryracing.ca/) UCR-02 commences, and as seen relevant. This overview is fairly basic, and should serve as a starting point for any new FSAE team members to understand pumps.
 
 -  Table of Contents
 {:toc}
@@ -57,7 +57,7 @@ Dynamic head pumps increase the kinetic energy of the flow, creating low pressur
 
 Centrifugal pumps consist of a stationary pump casing and an impeller mounted on a rotating shaft.
 
-![Centrifugal Pump Diagram](..\..\assets\img\blog\pump_guide_assets\centrif_diagram.jpg)
+![Centrifugal Pump Diagram](\assets\img\blog\pump_guide_assets\centrif_diagram.jpg)
 
 A basic centrifugal pump diagram.
 {:.figcaption}
