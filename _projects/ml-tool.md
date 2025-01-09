@@ -22,6 +22,8 @@ In the summer of 2024, I had the privilege of participating in the [Whitecap Res
 * Ensure the correlation is accurate enough to size artificial lift in future wells
 * Ensure the tool can be used by anyone regardless of python experience
 
+Working with the Weyburn field created unique challenges, as it is one of the oldest EOR projects worldwide. This added an inherent unpredictability due to carbon dioxide injection over the last 30+ years. Although I had basic machine learning experience, I had to teach myself more about advanced methods and good practice. This entailed reading about neural networks in my free time, and working on practice tasks whenever I encountered an appropriate scenario. [Machine Learning Mastery](https://machinelearningmastery.com/) was an invaluable resource throughout, and is a site worth checking out for similar tasks.
+
 Although the project seemed like a simple data analysis task, the intricacies in UBD data and the large unknown of reservoir conditions made it much more complicated than had been first anticipated. Using python, pyinstaller, and tkinter, I was able to create a GUI application to house a Keras LSTM Neural Network model, which had been tuned for ideal results. Although I am not at liberty to share the code or detailed methodology, I can confirm that it was accurate to ~15% error which was sufficient for sizing artificial lift. The tool is now getting actual use within the Weyburn production team, and will help engineers make well-informed decisions.
 
 ![Tool in action](\assets\img\projects\GUI_running.gif)

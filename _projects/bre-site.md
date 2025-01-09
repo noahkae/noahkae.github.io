@@ -19,5 +19,4 @@ accent_image:
 theme_color: '#000000'
 sitemap: false
 ---
-During my time with [BRE-Group](https://bre-group.ca/) in the summer of 2023, I was tasked with modernizing and revamping our online
-presence. This website is easy-to-use, and makes it much easier for clients to contact or purchase from the company. The new site follows a modern, high-contrast black and white theme that stands out from competitors and greatly improves on the previous site. Check it out [here!](https://bre-group.ca/)
+During my time with [BRE-Group](https://bre-group.ca/) in the summer of 2023, I was tasked with modernizing and revamping online presence. The project required me to learn HTML/CSS, however after developing an initial site it became clear that using a pre-made website builder was preferable for easy maintenance of the site by others at the company. This website is easy-to-use, and makes it much easier for clients to contact or purchase from the company. The new site follows a modern, high-contrast black and white theme that stands out from competitors and greatly improves on the previous site. Check it out [here!](https://bre-group.ca/)

@@ -68,7 +68,7 @@ volunteer:
     highlights:
       - "Placed and designed the mounts for the motor controller and high-voltage disconnector"
       - "Ran critical safety FEA on drivetrain components"
-      - "Developed exceptional Solidworks and PDM skills"
+      - "Developing cooling systems for the UCR-02 using empirical data"
       - "Attended FSAE EV Michigan 2024 to compete the UCR-01"
 education:
   - institution: "The University of Calgary"
@@ -77,9 +77,9 @@ education:
     startDate: "2022-09-01"
     endDate: ""
     courses:
-      - "ENME 341 - Fluid Mechanics"
-      - "ENGG 311 - Thermodynamics"
-      - "ENDG 319 - Statistics and Machine Learning"
+      - "ENME 495 - Fluid Mechanics"
+      - "ENGG 485 - Thermodynamics"
+      - "ENDG 411 - Advanced Applied Artificial Intelligence"
       - "ENDG 311 - Advanced Software Design and Development"
 publications:
   - name: "Simulation Model Complexity and the Realities of Data Implementation"
