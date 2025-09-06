@@ -6,8 +6,8 @@ no_excerpt: false
 hide_image: false
 cover: true
 selected_projects:
-  - _projects/ml-tool.md
-  - _projects/bild-comp.md
+  - _projects/ucr02-cooling.md
+  - _projects/zion-tech.md
   - _projects/UCR-01.md
 projects_page: projects.md
 ---
