@@ -10,12 +10,9 @@ sitemap: false
 
 <!--excerpt-->
 
-<div style="position: relative; width: 100%; padding-bottom: 141.42%; height: 0; overflow: hidden;">
-  <object 
-    data="{{ '/assets/documents/UCR-Cooling-V1-Incomplete.pdf' | relative_url }}" 
-    type="application/pdf" 
-    width="100%" 
-    height="100%" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </object>
-</div>
+<iframe
+  src="{{ '/pdfjs/web/viewer.html' | relative_url }}?file={{ '/assets/documents/UCR-Cooling-V1-Incomplete.pdf' | relative_url }}"
+  width="100%"
+  height="800px"
+  style="border:none;">
+</iframe>
