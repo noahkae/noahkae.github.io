@@ -31,6 +31,17 @@ basics:
       username: "Noah Elsayed"
       url: "https://www.linkedin.com/in/noahka-elsayed/"
 work:
+  - company: "Canadian Natural Resources Ltd."
+    position: "Midstream Engineering Intern"
+    website: "https://www.cnrl.com/"
+    startDate: "2025-05-01"
+    endDate: "2026-05-01"
+    summary: >
+      For my full-term 3rd year internship, I am currently working with Canadian Natural's Midstream Engineering team.
+    highlights:
+      - "Built a TensorFlow tool to track competitor press releases, communicating summaries with PowerBI and reducing monthly analyst prep time by 10+ hours"
+      - "Coordinated a 15-site product testing program, improving quality monitoring"
+      - "Automated asset production reports in VBA, adopted in monthly executive briefings"
   - company: "Whitecap Resources Ltd."
     position: "Production Engineering Summer Student"
     website: "https://www.wcap.ca/"
@@ -60,16 +71,16 @@ work:
       - "Co-authored an article on reservoir simulation model complexity"
 volunteer:
   - organization: "UCalgary Racing"
-    position: "Drivetrain Subteam Member"
+    position: "Drivetrain Subteam Member and Cooling Lead"
     website: "https://ucalgaryracing.ca/"
     startDate: "2023-10-01"
     endDate: ""
-    summary: "Helped develop and build the University of Calgary's Formula SAE car, the UCR-01."
+    summary: "Leading member of the University of Calgary's Formula SAE team."
     highlights:
       - "Placed and designed the mounts for the motor controller and high-voltage disconnector"
       - "Ran critical safety FEA on drivetrain components"
-      - "Developing cooling systems for the UCR-02 using empirical data"
-      - "Attended FSAE EV Michigan 2024 to compete the UCR-01"
+      - "Developed the cooling system for the UCR-02, creating a framework for future vehicles"
+      - "Designed data aquisition PCB for the cooling system"
 education:
   - institution: "The University of Calgary"
     area: "Mechanical Engineering"
@@ -77,10 +88,7 @@ education:
     startDate: "2022-09-01"
     endDate: ""
     courses:
-      - "ENME 495 - Fluid Mechanics"
-      - "ENGG 485 - Thermodynamics"
-      - "ENDG 411 - Advanced Applied Artificial Intelligence"
-      - "ENDG 311 - Advanced Software Design and Development"
+      - "Awards: Dean’s List, Alexander Rutherford Scholarship, Jason Lang Award"
 publications:
   - name: "Simulation Model Complexity and the Realities of Data Implementation"
     releaseDate: "2023-08-14"
