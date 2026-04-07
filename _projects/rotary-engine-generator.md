@@ -1,14 +1,14 @@
 ---
 layout: project
-title: 'Eco-friendly Rotary Engine Generator'
+title: 'Rotary Engine Generator'
 caption: Designed an innovative rotary engine generator
 date: '30-05-2024'
-image: 
+image:
   path: /assets/img/projects/felix_render.jpg
 sitemap: false
 accent_color: '#ffffff'
-accent_image: 
-  background: url('/assets/img/projects/green_bg.jpg') center/cover
+accent_image:
+  background: url('/assets/img/projects/parts.jpg') center/cover
   overlay: false
 theme_color: '#000000'
 sitemap: false

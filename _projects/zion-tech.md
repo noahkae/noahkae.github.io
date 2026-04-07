@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Early Disease Prediction Tool'
-caption: Participated in developing and competing the UCR-01
+caption: Used ML to create an early disease pre-screening tool
 date: '10-03-2025'
-image: 
+image:
   path: /assets/img/projects/zion-tech.png
 links:
   - title: Biohack 2025's Winning Submission
