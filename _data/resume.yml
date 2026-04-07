@@ -7,11 +7,10 @@ basics:
   picture: "/assets/img/noah_face.png"
   email: "contact@noahkae.com"
   phone: ""
-  website: "https://www.noahkae.com"
   summary: >
     Born in Calgary, I have always been fascinated by mechanical systems.
     I am in my third year of pursuing a BSc in Mechanical Engineering with a minor in Digital Engineering.
-    As an active drivetrain member of UCalgary Racing, I am able to gain hands-on mechanical, automotive, 
+    As an active drivetrain member of UCalgary Racing, I am able to gain hands-on mechanical, automotive,
     and manufacturing engineering experience.
     My work has primarily related to data exploration and machine learning,
     and I look forward to applying machine learning to mechanical engineering applications.
@@ -32,123 +31,57 @@ basics:
       url: "https://www.linkedin.com/in/noahka-elsayed/"
 work:
   - company: "Canadian Natural Resources Ltd."
-    position: "Midstream Engineering Intern"
+    position: "Mechanical Engineering Intern"
     website: "https://www.cnrl.com/"
     startDate: "2025-05-01"
-    endDate: "2026-05-01"
-    summary: >
-      For my full-term 3rd year internship, I am currently working with Canadian Natural's Midstream Engineering team.
+    endDate: "2026-08-31"
     highlights:
-      - "Built a TensorFlow tool to track competitor press releases, communicating summaries with PowerBI and reducing monthly analyst prep time by 10+ hours"
-      - "Coordinated a 15-site product testing program, improving quality monitoring"
-      - "Automated asset production reports in VBA, adopted in monthly executive briefings"
+      - "Quantified pipeline flow losses using simulations and hand calculations, then implemented drag-reducing agents to increase throughput, reducing operating costs by $12M annually"
+      - "Automated performance analysis workflows using VBA, decreasing analyst workload by 10+ hours weekly"
+      - "Mitigated off-spec delivery issues by validating condensate composition through a 15-site testing program"
+      - "Diagnosed a failed in-line inspection (ILI) tool through root cause analysis and implemented a standardized pre-run checking system to prevent repeat failures"
   - company: "Whitecap Resources Ltd."
     position: "Production Engineering Summer Student"
     website: "https://www.wcap.ca/"
     startDate: "2024-05-01"
     endDate: "2024-08-16"
-    summary: >
-      As part of Whitecap's 2024 summer student program, I worked with the Weyburn production team.
-      I had the privilege of getting hands-on experience in the field, and was able to improve my communication,
-      teamwork, and machine learning skills.
     highlights:
-      - "Consolidated large quantities of scattered MMV data to create a Tableau dashboard"
-      - "Trained a LSTM Neural Network and used in a GUI tool to predict well flow rates while drilling"
-      - "Delivered an extensive Introduction to Machine Learning course to coworkers"
-      - "Represented Whitecap Resources Ltd. at the 2024 Saskatchewan Oil & Gas Show"
+      - "Achieved <5% pump sizing error across 30+ cases by developing and validating a model in Python using hydraulic performance calculations and field statistics"
+      - "Enabled accurate pump selection by deploying the validated sizing model as a user-facing application adopted by field engineers, used in 2-4 sizings monthly"
+      - "Identified root causes of pump failures through tear-downs and failure analysis, informing maintenance and pump selection strategy updates"
+      - "Saved 100+ hours annually by analyzing surface casing CO2 leakage data and flagging anomalies with a geospatial Power BI dashboard"
   - company: "BRE Group"
     position: "Engineering Summer Student"
     website: "https://bre-group.ca/"
     startDate: "2023-05-01"
     endDate: "2023-09-01"
-    summary: >
-      Working as an intern at BRE Group in 2023 under Richard Baker, I was able to get a basic understanding of reservoir
-      engineering and improve my understanding of the oil and gas industry.
     highlights:
+      - "Developed fluid mechanics case studies incorporating thermodynamic and phase-behavior calculations for a carbon capture and storage (CCS) training program with 200+ participants"
+      - "Co-authored a technical article analyzing common reservoir simulation pitfalls affecting model accuracy"
       - "Spearheaded a complete website overhaul, modernizing online presence"
-      - "Developed critical components of intensive CCS and CCUS courses, devising innovative problems"
-      - "Created and digitized intricate figures, enhancing data visualization and communication efficacy"
-      - "Co-authored an article on reservoir simulation model complexity"
 volunteer:
   - organization: "UCalgary Racing"
     position: "Drivetrain Subteam Member and Cooling Lead"
     website: "https://ucalgaryracing.ca/"
-    startDate: "2023-10-01"
+    startDate: "2023-09-01"
     endDate: ""
-    summary: "Leading member of the University of Calgary's Formula SAE team."
     highlights:
-      - "Placed and designed the mounts for the motor controller and high-voltage disconnector"
-      - "Ran critical safety FEA on drivetrain components"
-      - "Developed the cooling system for the UCR-02, creating a framework for future vehicles"
-      - "Designed data aquisition PCB for the cooling system"
+      - "Designed the team’s first electric vehicle cooling system using Simulink by modeling heat generation and airflow requirements, establishing a validated framework for future development"
+      - "Lowered vehicle center of gravity by 7 mm by designing and finite element analysis-validating a motor controller mount to a 2.5× safety factor in SolidWorks, verifying results through manual calculations"
+      - "Manufactured drivetrain and cooling components using mill, lathe, and waterjet equipment, translating designs into track-ready hardware"
+      - "Enabled data-driven thermal design by developing an STM32-based data logging system in Altium to capture real-time drivetrain temperatures"
 education:
   - institution: "The University of Calgary"
     area: "Mechanical Engineering"
     studyType: "Bachelor of Science"
     startDate: "2022-09-01"
     endDate: ""
+    gpa: "3.7/4.0"
     courses:
       - "Awards: Dean’s List, Alexander Rutherford Scholarship, Jason Lang Award"
-publications:
-  - name: "Simulation Model Complexity and the Realities of Data Implementation"
-    releaseDate: "2023-08-14"
-    website: "https://www.linkedin.com/pulse/addressing-simulation-model-complexity-realities-data-richard-baker/?trackingId=RKucC4YsQb66BEwpnuViBA%3D%3D"
-    summary: "Simulation models are often constructed when evaluating Carbon Capture and Storage (CCS) projects. Initially, these models depend upon geologic concepts and a limited number of wells and are therefore lacking the required data complexity needed to populate a simulation model. "
-skills:
-  - name: "Computer-Aided Design"
-    level: "Master"
-    keywords:
-      - "Solidworks"
-      - "Inventor"
-      - "Fusion"
-      - "FEA"
-  - name: "Machine Learning"
-    level: "Master"
-    keywords:
-      - "Tensorflow"
-      - "Keras"
-      - "Neural Networks"
-  - name: "Python"
-    level: "Master"
-    keywords:
-      - "Pandas"
-      - "Object-Oriented"
-      - "Tkinter"
-  - name: "Manufacturing"
-    level: "2/3"
-    keywords:
-      - "CAM"
-      - "3D Printing"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-  - language: "Arabic"
-    fluency: "Full professional proficiency"
-interests:
-  - name: "Cars"
-    keywords:
-      - "Formula 1"
-      - "WRC"
-      - "Vehicle dynamics"
-  - name: "Sports"
-    keywords:
-      - "Soccer"
-      - "Boxing"
-      - "MMA"
-  - name: "Technology"
-    keywords:
-      - "FOSS"
-      - "Self-hosting"
-      - "Linux"
-  - name: "Other"
-    keywords:
-      - "Gardening"
-      - "Watches"
-      - "Investing"
-  -
 references:
-  - name: "Richard Baker"
+  - name: "Richard Baker, President of BRE Group"
     reference: >
-      I have no doubt in my mind that Noah Elsayed is destined for success in any field he
+      I have no doubt in my mind that Noah is destined for success in any field he
       chooses to pursue, whether it be engineering, business, research, or beyond. I am confident that he will
       bring an exceptional level of dedication, intelligence, and pragmatism to any endeavor he undertakes.
