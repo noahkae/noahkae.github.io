@@ -6,8 +6,9 @@ date: '15-05-2021'
 description: >
   In the 2020/2021 BILD Calgary Region Student Design Competition,
   my submission finished 3<sup>rd</sup>.
-image: 
+image:
   path: /assets/img/projects/Front-Render.jpg
+sitemap: false
 accent_color: '#2d83aa'
 links:
   - title: BILDCR Site
@@ -31,14 +32,14 @@ Design Competition. The competition entailed the design of a vacation home with 
 * A laundry room/mudroom/storage room
 * Preferably, helicopter access due to the remote location
 
-This house was to be placed on a tropical private island, and should be near the beach. After reviewing the competition requirements, I began the design process. This started with some rough sketches and a decision matrix, before the final design drawings were drafted.
+This house was to be placed on a tropical private island, and should be near the beach. With the requirements for the competition now understood, I began the design process. This started with some rough sketches and a decision matrix, before the final design drawings drafted.
 
 ![House front view.](\assets\img\projects\front_view.jpg)
 
-Front elevation view sketch.
+A drawing of the house's front - please excuse the messiness.
 {:.figcaption}
 
-With the design finalized, I embarked on the creation of the house in Autodesk Revit 2021. This included use of the software for full furniture placement, material selection, detailed exterior views, and drawings. The house includes an innovative detached master bedroom, as the requirements stated that guests would be staying in the home frequently. This design decision helped improve privacy and separation between guests and occupants.
+With the design finalized, I embarked on the creation of the house in Autodesk Revit 2021. This included use of the software for full furniture placement, material selection, detailed exterior views, and drawings. The house includes an innovative detached master bedroom, as the requirements stated that guests would be staying in the home frequently.
 
 ![House drawing](\assets\img\projects\l1_fp_bw.jpg)
 
@@ -50,4 +51,4 @@ A Revit drawing of the furnished first floor layout.
 A rendering of the final vacation home.
 {:.figcaption}
 
-After meeting all design requirements, finalizing documents, and submitting my project, the design placed 3<sup>rd</sup> in its competition bracket (level 2). This project was a great opportunity to go through the design process, and helped reveal the considerable overlap between architectural and mechanical design.
+After meeting all design requirements, finalizing documents, and submitting my project, the design placed 3<sup>rd</sup> in its competition bracket (level 2). This project was a great opportunity to go through the design process, and allowed me to observe the similarities between architectural and mechanical design.
