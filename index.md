@@ -1,14 +1,14 @@
 ---
 layout: welcome
 title: Welcome to my site!
-no_link_title: false 
-no_excerpt: false 
+no_link_title: false
+no_excerpt: false
 hide_image: false
 cover: true
 selected_projects:
   - _projects/ucr02-cooling.md
   - _projects/zion-tech.md
-  - _projects/UCR-01.md
+  - _projects/MC-Mount.md
 projects_page: projects.md
 ---
 
@@ -17,10 +17,10 @@ projects_page: projects.md
 I'm Noah, a third-year mechanical engineering student at the University of Calgary. I am extremely passionate about
 mechanical systems, having been fascinated by cars and racing from a young age. In an attempt to bring a modern approach
 to traditional mechanical fields, I am currently pursuing a minor in digital engineering as modern tools like machine
-learning and Python will prove incredibly useful in the analysis and design of innovative systems. I am passionate about cars, 
+learning and Python will prove incredibly useful in the analysis and design of innovative systems. I am passionate about cars,
 sports, technology, and many other things.
 
-Thank you for taking the time to check out my website! 
+Thank you for taking the time to check out my website!
 # Featured Projects
 Out of all the projects I've completed, these are my favourite:
 

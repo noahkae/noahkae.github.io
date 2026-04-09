@@ -3,14 +3,14 @@ layout: post
 title: Pump Fundamentals for FSAE Electric Powertrain Development
 description: >
   A high-level introduction to pump fundamentals for FSAE EV.
-image: 
+image:
   path: /assets/img/blog/guide.jpg
 sitemap: false
 ---
 
 <!--excerpt-->
 
-This post serves to document the basics of pumps specifically for use in FSAE electric vehicles. Much of the information and the graphics used are from [this great resource by IEM.](https://iem.ca/pdf/resources/Fundamentals%20of%20Pumps.pdf) The information in this post is subject to change as development of the [UCalgary Racing](https://ucalgaryracing.ca/) UCR-02 commences, and as seen relevant. This overview is fairly basic, and should serve as a starting point for any new FSAE team members to understand pumps.
+This post serves to document the basics of pumps specifically for use in FSAE electric vehicles. This overview is fairly basic, and should serve as a starting point for any new FSAE team members to understand pumps.
 
 -  Table of Contents
 {:toc}
@@ -63,7 +63,7 @@ A basic centrifugal pump diagram.
 {:.figcaption}
 
 ### The Casing
- 
+
 - The pump casing guides the liquid from the suction connection to the center (or eye) of the impeller.
 - The pump casing provides a pressure boundary for the pump and has channels to direct the suction and discharge flow.
 - The casing usually has suction and discharge holes on the main flow path of the pump.
@@ -219,11 +219,11 @@ A mathematical representation of NPSH follows:
 
 $$
 \begin{aligned}
-  h_{atm} - h_{vap} - H_{ss} - h_{ls} - \frac{V_s^2}{2g} > NPSH 
+  h_{atm} - h_{vap} - H_{ss} - h_{ls} - \frac{V_s^2}{2g} > NPSH
 \end{aligned}
 $$
 
-Where the left side of the inequality represents NPSHA and the right side represents NPSHR. 
+Where the left side of the inequality represents NPSHA and the right side represents NPSHR.
 
 ### Prevention
 
@@ -248,4 +248,20 @@ Some pumps are self priming, but if you're working on an FSAE EV cooling system,
 ![typical installation](\assets\img\blog\pump_guide_assets\diagram.jpg)
 
 An illustration showing a very typical centrifugal pump installation configuration.
+{:.figcaption}
+
+## Grouping Pumps
+
+Pumps can be connected in either series or parallel, somewhat analogous to an electrical circuit.
+
+![series vs parallel pumps](\assets\img\blog\pump_guide_assets\series-para.png)
+
+The modified flow curves of pumps in series vs parallel.
+{:.figcaption}
+
+Pumps connected in series yield doubled pressures in their combined curve, while series-connected pumps have a curve with double the flow rate. The more effective version for your given scenario depends on your system curve and pump parameters, as is seen below.
+
+![series vs parallel pump curves](\assets\img\blog\pump_guide_assets\sys-curve.png)
+
+Graphs showcasing how different pump arrangements can be more effective in certain cases.
 {:.figcaption}

@@ -42,12 +42,8 @@ Having exceeded strength and weight targets, I revisited the motor controller mo
 - Serviceable fastening strategy: The motor controller was secured using rivnuts, improving serviceability and assembly speed.
 - Continued structural strength: Hand calculations and FEA confirmed strength and stiffness targets were still met.
 
-![Final Mount FEA](\assets\img\projects\bamocar_mount_fea.jpg)
-Finite element analysis of the simplified mount
-{:.figcaption}
-
-![Final Mount](\assets\img\projects\bamocar_mount_fea.jpg)
-The manufactured final motor controller mount
+![Final Mount Design](\assets\img\projects\new-mc-mount.png)
+Final mount design in CAD
 {:.figcaption}
 
 Despite the simplifications, the redesigned mount maintained the same mass as prior designs while dramatically improving manufacturability. The final mount was manufactured and installed on the vehicle, where it performed as intended while driving and during servicing.
