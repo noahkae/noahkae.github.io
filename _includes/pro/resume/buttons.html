@@ -8,7 +8,7 @@
   {% if page.buttons.pdf %}
     {% assign pdf = page.buttons.pdf %}
     {% if pdf %}
-      <a href="{% include smart-url url=pdf %}" class="btn btn-sm btn-primary mt1">
+      <a href="{% include smart-url url=pdf %}" class="btn btn-lg btn-primary mt1">
         <small class="icon-file-pdf"></small>
         {{ site.data.strings.resume.download_pdf | default: "PDF" }}
       </a>
@@ -23,5 +23,5 @@
     </a>
     {% endif %}
   {% endif %}
-  
+
 </div>
