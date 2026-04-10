@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Pump Fundamentals for FSAE Electric Powertrain Development
+title: Pump Fundamentals
 description: >
-  A high-level introduction to pump fundamentals for FSAE EV.
+  A high-level introduction to pump fundamentals, particularly for automotive cooling applications.
 image:
   path: /assets/img/blog/guide.jpg
 sitemap: false
