@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Neural Network Drilling Analysis Tool'
-caption: Developed a tool to predict oil well flow rates
+caption: Developed a tool to predict well flow
 date: '15-08-2024'
 image:
   path: /assets/img/projects/ml_project.jpg

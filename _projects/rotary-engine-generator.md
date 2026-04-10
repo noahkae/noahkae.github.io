@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Rotary Engine Generator'
-caption: Parametric geometry optimization of a rotary engine
+caption: Geometry optimization of a rotary engine
 date: '30-05-2024'
 image:
   path: /assets/img/projects/felix_render.jpg

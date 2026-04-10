@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Formula SAE Motor Controller Mount'
-caption: Design, analysis, and manufacturability‑driven iteration
+caption: Design, analysis, and iteration
 date: '20-01-2024'
 image:
   path: /assets/img/projects/UCR-01.jpg

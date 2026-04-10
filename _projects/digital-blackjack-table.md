@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Digital Blackjack Table'
-caption: Recycled wood and electronics to create a digital games table
+caption: Recycled digital games table
 date: '15-02-2022'
-image: 
+image:
   path: /assets/img/projects/cards.jpg
 sitemap: false
 accent_color: '#ffffff'

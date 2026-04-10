@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Early Disease Prediction Tool'
-caption: Used ML to create a hackathon-winning pre-screening tool
+caption: Hackathon-winning pre-screening tool
 date: '10-03-2025'
 image:
   path: /assets/img/projects/zion-tech.png
