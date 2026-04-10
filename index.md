@@ -14,14 +14,10 @@ projects_page: projects.md
 
 # Hey there,
 
-I'm Noah, a third-year mechanical engineering student at the University of Calgary. I am extremely passionate about
-mechanical systems, having been fascinated by cars and racing from a young age. In an attempt to bring a modern approach
-to traditional mechanical fields, I am currently pursuing a minor in digital engineering as modern tools like machine
-learning and Python will prove incredibly useful in the analysis and design of innovative systems. I am passionate about cars,
-sports, technology, and many other things.
+I'm Noah, a final-year mechanical engineering student at the University of Calgary. I've been taking things apart since before I knew why, leading me to an interest in cars and racing, and eventually to the UCalgary Racing FSAE team, where I lead development of the car's electric vehicle cooling system. I'm pursuing a minor in digital engineering because I think the most interesting problems in mechanical design are increasingly solved with computational tools.
 
 Thank you for taking the time to check out my website!
 # Featured Projects
-Out of all the projects I've completed, these are my favourite:
+Out of all the projects I've completed, these are some of my favourites:
 
 <!--projects-->
