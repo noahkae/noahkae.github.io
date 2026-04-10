@@ -6,7 +6,7 @@ date: '15-05-2021'
 description: >
   In the 2020/2021 BILD Calgary Region Student Design Competition,
   my submission finished 3<sup>rd</sup>.
-image: 
+image:
   path: /assets/img/projects/Front-Render.jpg
 accent_color: '#2d83aa'
 links:
@@ -33,7 +33,7 @@ Design Competition. The competition entailed the design of a vacation home with 
 
 This house was to be placed on a tropical private island, and should be near the beach. After reviewing the competition requirements, I began the design process. This started with some rough sketches and a decision matrix, before the final design drawings were drafted.
 
-![House front view.](\assets\img\projects\front_view.jpg)
+![House front view.](\assets\img\projects\front_view.png)
 
 Front elevation view sketch.
 {:.figcaption}
