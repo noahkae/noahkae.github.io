@@ -2,7 +2,7 @@
 layout: post
 title: Pump Fundamentals
 description: >
-  A high-level introduction to pump fundamentals, particularly for automotive cooling applications.
+  A high-level introduction to pump fundamentals, particularly for automotive cooli.
 image:
   path: /assets/img/blog/guide.jpg
 sitemap: false
